@@ -31,7 +31,8 @@ N/A
 conniebilac@gmail.com
 
 Github:
-konnyph
+konnyph![Screenshot 2023-03-18 at 8 24 07 PM (2)](https://user-images.githubusercontent.com/115750954/226147297-7e33c114-0826-4e7f-8015-4ed778272081.png)
+
 
 Github Link: https://github.com/konnyph/text-editor
 Heroku Deployed link: https://text-editor-03182023.herokuapp.com/
